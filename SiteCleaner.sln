@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiteCleaner", "SiteCleaner.csproj", "{6E72D690-4524-4A82-8315-D47F8D648F61}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E72D690-4524-4A82-8315-D47F8D648F61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E72D690-4524-4A82-8315-D47F8D648F61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E72D690-4524-4A82-8315-D47F8D648F61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E72D690-4524-4A82-8315-D47F8D648F61}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9B64AC4E-9BE2-4C6B-88E4-CBFD9069ADFF}
+	EndGlobalSection
+EndGlobal
